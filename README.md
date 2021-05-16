@@ -1,2 +1,2 @@
 # Password-Generator
-Just a password generator I wrote in Python!
+A password generator I wrote in Python
